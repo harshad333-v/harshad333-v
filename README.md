@@ -20,9 +20,10 @@
 
 ### ✦ GitHub Overview
 
-<a href="https://github.com/harshad333-v">
-<img src="https://github-readme-stats.vercel.app/api?username=harshad333-v&show_icons=true&rank_icon=github&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=09090F&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" width="100%" alt="GitHub statistics" />
-</a>
+<p><strong>Consistency over hype.</strong><br/>I use GitHub to document projects, experiments, and what I'm learning.</p>
+
+<img src="https://img.shields.io/github/followers/harshad333-v?label=Followers&style=flat-square&color=8B5CF6" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/harshad333-v?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=8B5CF6" alt="GitHub stars" />
 
 <img src="https://streak-stats.demolab.com?user=harshad333-v&theme=midnight-purple&hide_border=true&background=09090F&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD" width="100%" alt="GitHub contribution streak" />
 
@@ -35,7 +36,7 @@
 <br/><sub>Computer Science Student · AI/Software Builder</sub>
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated pixel-art coding scene" />
+<sub>Building practical software and exploring intelligent systems.</sub>
 
 </td>
 </tr>
@@ -175,14 +176,12 @@ Explore more in my [repositories](https://github.com/harshad333-v?tab=repositori
 ## 📈 Activity & most-used languages
 
 <div align="center">
-  <a href="https://github.com/harshad333-v">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad333-v&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=09090F&title_color=C4B5FD&text_color=E5E7EB" alt="Most used languages" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,nodejs,django,mysql,mongodb&theme=dark" alt="Languages and technologies" />
+
 </div>
 
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshad333-v&theme=tokyo-night&hide_border=true&radius=10" alt="GitHub contribution activity graph" />
-</div>
+
 
 ## 🤝 Connect
 

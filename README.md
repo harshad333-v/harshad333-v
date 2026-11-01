@@ -8,7 +8,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=harshad333-v&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+useful+software;Exploring+AI+%26+Machine+Learning;Learning+by+building+real+projects;Turning+ideas+into+working+products" alt="Animated typing introduction" />
+
 </div>
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/68390763?v=4" width="190" alt="Harshad Raj Gupta GitHub profile photo" />
+  <br/><strong>Harshad Raj Gupta</strong>
+  <br/><sub>Software & AI Builder</sub>
+</td>
+<td width="66%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated pixel-art coding scene" />
+  <sub>Always building, experimenting, and learning.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -140,6 +158,14 @@ I use different tools depending on the problem. This is a snapshot of technologi
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,aws&theme=dark" alt="Git, GitHub, VS Code, Figma, Linux, Docker, AWS" />
 </details>
+
+## 🎬 In my developer workspace
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="88%" alt="Animated developer workspace" />
+  <br/>
+  <sub>Looping animated visual — GitHub README supports GIF animations, not inline MP4 playback.</sub>
+</div>
 
 ## 🧭 Current learning priorities
 

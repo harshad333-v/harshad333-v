@@ -31,9 +31,7 @@
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/68390763?v=4" width="150" alt="Harshad Raj Gupta profile picture" />
-
-<br/><strong>Harshad Raj Gupta</strong>
+<strong>Harshad Raj Gupta</strong>
 <br/><sub>Computer Science Student · AI/Software Builder</sub>
 <br/><br/>
 

@@ -12,38 +12,10 @@
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="middle">
-
 <div align="center">
 
-### ✦ GitHub Overview
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Full-width animated pixel-art developer workspace" />
 
-<p><strong>Consistency over hype.</strong><br/>I use GitHub to document projects, experiments, and what I'm learning.</p>
-
-<img src="https://img.shields.io/github/followers/harshad333-v?label=Followers&style=flat-square&color=8B5CF6" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/harshad333-v?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=8B5CF6" alt="GitHub stars" />
-
-<img src="https://streak-stats.demolab.com?user=harshad333-v&theme=midnight-purple&hide_border=true&background=09090F&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD" width="100%" alt="GitHub contribution streak" />
-
-</div>
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<strong>Harshad Raj Gupta</strong>
-<br/><sub>Computer Science Student · AI/Software Builder</sub>
-<br/><br/>
-
-<sub>Building practical software and exploring intelligent systems.</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="86%" alt="Animated developer workspace" />
 </div>
 
 ---
@@ -155,14 +127,6 @@ Explore more in my [repositories](https://github.com/harshad333-v?tab=repositori
 </div>
 
 **Also working with:** NumPy · pandas · Matplotlib · scikit-learn · XGBoost · LangChain · ChromaDB · Ollama · RAG
-
-## 🎬 In my developer workspace
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Full-width animated developer workspace" />
-  <br/>
-  <sub>Looping animated visual — GitHub README supports GIF animations, not inline MP4 playback.</sub>
-</div>
 
 ## 🧭 Current learning priorities
 

@@ -159,7 +159,7 @@ Explore more in my [repositories](https://github.com/harshad333-v?tab=repositori
 ## 🎬 In my developer workspace
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="88%" alt="Animated developer workspace" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Full-width animated developer workspace" />
   <br/>
   <sub>Looping animated visual — GitHub README supports GIF animations, not inline MP4 playback.</sub>
 </div>
